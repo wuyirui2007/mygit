@@ -1,4 +1,5 @@
-dsd:
+git is version control system.
+git is free software.
+git modfile 3th times;
+4th modify times;
 
-git tracks of files
-my teacher is so fast`1;
